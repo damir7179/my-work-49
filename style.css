@@ -1,0 +1,17 @@
+.box{
+    border: solid brown;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+}
+.a{
+    border: solid brown 3px;
+    width: 150px;
+    height: 70px;
+}
+.b{
+    border: dashed orange 3px;
+    width: 150px;
+    height: 215px;
+    background-color: yellow;
+}
